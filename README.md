@@ -48,14 +48,14 @@ The negative sign in gain indicates a **phase shift of 180°**.
 Acl = -RF/R1
 
 PIN DIAGRAM
-![WhatsApp Image 2025-12-01 at 08 20 13_35abb0d5](https://github.com/user-attachments/assets/6b759046-37b0-441d-8214-ece14dcebac1)
+![WhatsApp Image 2025-12-04 at 14 20 47_126dd4d1](https://github.com/user-attachments/assets/48e19082-3967-4bf7-bb60-440397a2c6fd)
 
 CIRCUIT DIAGRAM: INVERTING AMPLIFIER:
-![WhatsApp Image 2025-12-01 at 08 20 29_6534cea3](https://github.com/user-attachments/assets/a049cdb3-3187-4c6e-bf0c-f7a1ee8ef829)
+![WhatsApp Image 2025-12-04 at 14 21 57_0882c033](https://github.com/user-attachments/assets/dd32ff1f-8151-4d71-ab82-7fc9552d9508)
 
 MODEL GRAPH 
-![WhatsApp Image 2025-12-01 at 08 20 52_0f381261](https://github.com/user-attachments/assets/7c2b7bda-6653-43d1-9150-514f9b868aad)
 
+![WhatsApp Image 2025-12-04 at 14 24 08_2d27fc19](https://github.com/user-attachments/assets/7fb1cc17-0e1c-4f7b-aeeb-b0af45d09fa0)
 
 DESIGN:
 
@@ -79,7 +79,7 @@ Inverting amplifier:
 
 
 ##Tabulation
-![WhatsApp Image 2025-12-01 at 08 23 35_e4480380](https://github.com/user-attachments/assets/65d091ae-3d4d-4ab0-88e0-89258a8e38b7)
+![WhatsApp Image 2025-12-04 at 14 25 06_b8af3e7e](https://github.com/user-attachments/assets/0c59e9dc-2d48-463b-a775-c6da38154d15)
 
 
 ---
@@ -101,14 +101,15 @@ ACL = 1 + RF/R1
 ---
 
 ## CIRCUIT DIAGRAM
+![WhatsApp Image 2025-12-04 at 14 26 29_f789a88a](https://github.com/user-attachments/assets/712a7685-eb43-405e-bc01-5e2b9f560b69)
 
-![WhatsApp Image 2025-12-01 at 08 26 14_4a1483f3](https://github.com/user-attachments/assets/7fde997e-a550-4f0e-b15d-51e1028962a6)
 
 
 ---
 
 ## MODEL GRAPH
-![WhatsApp Image 2025-12-01 at 08 26 37_780fbd98](https://github.com/user-attachments/assets/4750943e-6899-4a59-9037-b02be4285da5)
+
+![WhatsApp Image 2025-12-04 at 14 28 38_80284c5f](https://github.com/user-attachments/assets/0210ce56-9865-4765-a489-54859416985a)
 
 
 ---
@@ -124,10 +125,8 @@ PROCEDURE:
 
 ## TABULATION
 
-![WhatsApp Image 2025-12-01 at 08 26 47_a19cda80](https://github.com/user-attachments/assets/7c79f152-eb7c-4cd2-845c-c24fb125a2e0)
+![WhatsApp Image 2025-12-04 at 14 26 18_b30d2349](https://github.com/user-attachments/assets/bd9ca053-39a7-4553-8bf2-e5a7734ff0a5)
 
-
----
 ## OUT PUT WAVEFORM AND DISCUSSION 
 ![WhatsApp Image 2025-12-01 at 08 29 53_c24bea8f](https://github.com/user-attachments/assets/c5e10068-6113-4950-8615-e6b0ca7d6bb9)
 
@@ -143,12 +142,11 @@ If the two input signals are identical, the output is ideally **zero**.
 
 A = Vo/{V2 - V1} = -Rf/R1
 ## CIRCUIT DIAGRAM
-![WhatsApp Image 2025-12-01 at 08 32 21_866f8257](https://github.com/user-attachments/assets/278c5e22-20aa-4d1e-bdeb-d1cca6b92d61)
+![WhatsApp Image 2025-12-04 at 14 28 47_38a0356b](https://github.com/user-attachments/assets/d1cfcedf-d611-4979-974f-1806650b1fa5)
 
 ## MODEL GRAPH
-![WhatsApp Image 2025-12-01 at 08 32 42_09aefba2](https://github.com/user-attachments/assets/fdd7b7c7-8b32-4059-b28a-19e66fcb1dbf)
 
----
+![WhatsApp Image 2025-12-04 at 14 31 28_483b3678](https://github.com/user-attachments/assets/296336be-c3f1-4630-a060-24919b7c7428)
 
 ## DESIGN
 
@@ -179,7 +177,7 @@ Choose  R1 = 1kOhm, Rf = 10kOhm
 
 ## TABULATION (Differential Amplifier)
 
-![WhatsApp Image 2025-12-01 at 08 34 24_f5aa48e7](https://github.com/user-attachments/assets/d6ce5484-47e6-4178-a8a4-2c2c195444e7)
+![WhatsApp Image 2025-12-04 at 14 29 04_8b3c2e8d](https://github.com/user-attachments/assets/5f2661fa-c914-4535-846a-ef0e9ef8c0e4)
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
